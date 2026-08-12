@@ -1,4 +1,4 @@
-# Cambio realizado desde la rama john-viz
+# Cambio realizado directamente en la rama main
 
 import dash
 from dash import dcc
